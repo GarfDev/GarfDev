@@ -1,23 +1,18 @@
 ### I'm Garfield, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021🚀  
   
 
+<div>
+  <img src="https://github.com/GarfDev/GarfDev/blob/main/download.png?raw=true" align="left" height="" width="600" />  
+</div>  
+
+  
 - 🌱 I’m currently learning DevOps and Kubernetes  
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 - ⚡ Fun fact: I'm a good MEME maker  
   
 
-<img src="https://github.com/GarfDev/GarfDev/blob/main/download.png?raw=true" align="left" height="" width="600" />  
-  
-
-  
-  
-
 <br/>  
-<br/> <br/> <br/> <br/> <br/> <br/>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
